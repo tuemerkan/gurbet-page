@@ -40,7 +40,7 @@ export default function Section2() {
       initial="offscreen"
       whileInView="onscreen"
       transition={{ type: "spring", duration: 0.8, bounce: 1, stiffness: 80 }}
-      className="bg-white shadow-2xl rounded-3xl p-10"
+      className="bg-white shadow-2xl rounded-3xl p-8"
     >
       <div className="mx-auto max-w-7xl px-6 lg:px-8">
         <div className="mx-auto max-w-2xl lg:text-center">
